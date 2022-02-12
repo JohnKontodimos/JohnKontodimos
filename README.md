@@ -6,10 +6,10 @@
 
 ## 🙋‍♂️ About Me
 - 👀 I’m interested in Web Development
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate ...
-- 🤔 I’m looking for help with ...
+- 🔭 I’m currently working on my Software Engineer Degree
+- 🌱 I’m currently learning React
+- 👯 I’m looking to collaborate and work with a team
+- 🤔 I’m looking for help with React
 - 💬 Ask me about PHP or any tech-related stuff.
 - 📫 How to reach me: [Linkedin - @Ioannis Kontodimos](https://www.linkedin.com/in/ioannis-kontodimos)
 - ⚡ Fun fact: I play games and go to the gym very often.
@@ -34,6 +34,7 @@
     <a href="https://www.slimframework.com/" target="_blank"> <img src="https://aws1.discourse-cdn.com/standard14/uploads/slimframework/original/1X/1dfd55d6eaf3d2094a71ca1399db7c23bde8060a.png" width="48" height="48"/> </a>
     <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
+    <a href="https://wordpress.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/wordpress.png"/> </a>
 </p>
 <br/>
 
