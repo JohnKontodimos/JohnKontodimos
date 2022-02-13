@@ -29,7 +29,6 @@
     <a href="https://www.jetbrains.com/pycharm/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/pycharm.png"/> </a>
     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
-    <br>
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
     <a style="padding-right:8px;" href="https://www.mysql.com/products/workbench/" target="_blank"> <img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/48/mysql-workbench-icon.png"/> </a>
     <a href="https://www.slimframework.com/" target="_blank"> <img src="https://aws1.discourse-cdn.com/standard14/uploads/slimframework/original/1X/1dfd55d6eaf3d2094a71ca1399db7c23bde8060a.png" width="48" height="48"/> </a>
