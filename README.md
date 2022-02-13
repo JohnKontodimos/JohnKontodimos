@@ -2,7 +2,7 @@
 
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm John</h1>
 <p align="left">I'm a passionate Full Stack Developer from Greece.</p>
-<br/>
+<br>
 
 ## 🙋‍♂️ About Me
 - 👀 I’m interested in Web Development
@@ -13,7 +13,7 @@
 - 💬 Ask me about PHP or any tech-related stuff.
 - 📫 How to reach me: [Linkedin - @Ioannis Kontodimos](https://www.linkedin.com/in/ioannis-kontodimos)
 - ⚡ Fun fact: I play games and go to the gym very often.
-<br/>
+<br>
 
 ## 🚀 Languages and Tools:
 
@@ -29,6 +29,7 @@
     <a href="https://www.jetbrains.com/pycharm/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/pycharm.png"/> </a>
     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
+    <br>
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
     <a style="padding-right:8px;" href="https://www.mysql.com/products/workbench/" target="_blank"> <img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/48/mysql-workbench-icon.png"/> </a>
     <a href="https://www.slimframework.com/" target="_blank"> <img src="https://aws1.discourse-cdn.com/standard14/uploads/slimframework/original/1X/1dfd55d6eaf3d2094a71ca1399db7c23bde8060a.png" width="48" height="48"/> </a>
@@ -36,16 +37,14 @@
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
     <a href="https://wordpress.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/wordpress.png"/> </a>
 </p>
-<br/>
+<br>
 
 ## 📊 My Github Stats
 
-  <br/>
-    <a href="https://github.com/JohnKontodimos/github-readme-stats"><img align="center" alt="John Kontodimos's Github Stats" src="https://github-readme-stats.vercel.app/api?username=JohnKontodimos&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/JohnKontodimos/github-readme-stats"><img align="center" alt="John Kontodimos's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnKontodimos&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-
-<br/>
-<br/>
+  <br>
+    <a href="https://github.com/JohnKontodimos/github-readme-stats"><img align="left" alt="John Kontodimos's Github Stats" src="https://github-readme-stats.vercel.app/api?username=JohnKontodimos&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/JohnKontodimos/github-readme-stats"><img align="right" alt="John Kontodimos's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnKontodimos&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br>
+  <br>
+  <br>
+  <p align="left"><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</p>
