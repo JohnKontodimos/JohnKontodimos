@@ -2,7 +2,7 @@
 
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm John</h1>
 <p align="left">I'm a passionate Full Stack Developer from Greece.</p>
-<br>
+<br/>
 
 ## 🙋‍♂️ About Me
 - 👀 I’m interested in Web Development
@@ -13,7 +13,7 @@
 - 💬 Ask me about PHP or any tech-related stuff.
 - 📫 How to reach me: [Linkedin - @Ioannis Kontodimos](https://www.linkedin.com/in/ioannis-kontodimos)
 - ⚡ Fun fact: I play games and go to the gym very often.
-<br>
+<br/>
 
 ## 🚀 Languages and Tools:
 
@@ -37,14 +37,13 @@
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
     <a href="https://wordpress.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/wordpress.png"/> </a>
 </p>
-<br>
+<br/>
 
 ## 📊 My Github Stats
 
-  <br>
-    <a href="https://github.com/JohnKontodimos/github-readme-stats"><img align="left" alt="John Kontodimos's Github Stats" src="https://github-readme-stats.vercel.app/api?username=JohnKontodimos&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/JohnKontodimos/github-readme-stats"><img align="right" alt="John Kontodimos's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnKontodimos&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br>
-  <br>
-  <br>
-  <p align="left"><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</p>
+ <br/>
+  
+<a href="https://github.com/JohnKontodimos">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnKontodimos&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JohnKontodimos&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
+</a>
