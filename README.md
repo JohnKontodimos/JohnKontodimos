@@ -11,9 +11,9 @@
 ## 🙋‍♂️ About Me
 - 👀 I’m interested in Web Development
 - 🔭 I’m currently working on my Software Engineer Degree
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning Laravel
 - 👯 I’m looking to collaborate and work with a team
-- 🤔 I’m looking for help with React
+- 🤔 I’m looking for help with JavaScript
 - 💬 Ask me about PHP or any tech-related stuff.
 - 📫 How to reach me: [Linkedin - @Ioannis Kontodimos](https://www.linkedin.com/in/ioannis-kontodimos)
 - ⚡ Fun fact: I play games and go to the gym very often.
@@ -64,10 +64,10 @@
 
 ## 🙋‍♂️ Σχετικά με εμένα
 - 👀 Με ενδιαφέρει το Web Development
-- 🔭 Αυτή τη στιγμή δουλεύω στο πτυχίο Μηχανικού Λογισμικού.
-- 🌱 Μαθαίνω React
+- 🔭 Αυτή τη στιγμή δουλεύω στην απόκτηση πτυχίου Μηχανικού Λογισμικού.
+- 🌱 Μαθαίνω Laravel
 - 👯 Θέλω να συνεργαστώ και να δουλέψω με μια ομάδα.
-- 🤔 Θέλω βοήθεια με την React
+- 🤔 Θέλω βοήθεια με την JavaScript
 - 💬 Ρωτήστε με για php ή οτιδήποτε που σχετίζεται με την τεχνολογία.
 - 📫 Επικοινωνία: [Linkedin - @Ioannis Kontodimos](https://www.linkedin.com/in/ioannis-kontodimos)
 - ⚡ Ενδιαφέροντα: Παίζω βιντεοπαιχνίδια και πηγαίνω στο γυμναστήριο πολύ συχνά.
