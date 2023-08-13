@@ -1,5 +1,5 @@
 <p align="center">
-<a href="#"><img align="right" width="500px" height="320px" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif"/></a>
+<a href="#"><img align="right" width="500px" height="320px" style="margin-left:10px" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif"/></a>
 
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm John</h1>
 <p align="left">I'm a passionate Software Developer from Greece.</p>
