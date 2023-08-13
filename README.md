@@ -1,5 +1,4 @@
 <p align="center">
-<a href="#"><img src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif"/></a>
 
 <h1>Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm John</h1>
 <p>I'm a passionate Software Developer from Greece.</p>
